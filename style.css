@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.nav {
+    background-color: rgb(64, 173, 224);
+    height: 50px;
+}
+
+.container {
+    background-color: rgb(224, 224, 224);
+}
+
+.box{
+    
+}
+
+.fas {
+    font-size: 50px;
+}
+
+.orange {
+    color: orange;
+}
+
+.blue{
+    color: blue
+}
+
+.green {
+    color: green;
+}
+
+.immagine {
+    background-color: white;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+}
