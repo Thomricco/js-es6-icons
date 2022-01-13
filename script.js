@@ -143,7 +143,7 @@ function myFunction() {
     inconHtml.innerHTML = '';
 //seleziona cambio
     let iconeSelezionate = icons.filter((icona) => {
-        if (icona.type == cambio) {
+        if (cambio === 'all' || icona.type === cambio) {
             return true;
         } 
         else { 
